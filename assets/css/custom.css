@@ -1,0 +1,17 @@
+.main__logo--img {
+    max-width: 200px;
+}
+.footer__logo--img{
+    max-width: 150px;
+}
+.contact__form{
+    padding: 2rem 2rem 2rem 8rem;
+    border: 1px solid var(--secondary-color);
+    border-radius: 5px;
+    overflow: hidden;
+    line-height: 0;
+}
+.contact__form iframe{
+    width: 100%;
+    min-height: 500px;
+}
